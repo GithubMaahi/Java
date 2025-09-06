@@ -1,2 +1,2 @@
 #Java
-This repository contains java practice , codes, projects.
+This repository contains java codes, practice , projects.
