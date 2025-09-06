@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortExample",
+            "request": "launch",
+            "mainClass": "BubbleSortExample",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "CLA",
+            "request": "launch",
+            "mainClass": "CLA",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "Decimal",
+            "request": "launch",
+            "mainClass": "Decimal",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciExample",
+            "request": "launch",
+            "mainClass": "FibonacciExample",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeExample",
+            "request": "launch",
+            "mainClass": "PalindromeExample",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "PipedIo",
+            "request": "launch",
+            "mainClass": "PipedIo",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "Prize",
+            "request": "launch",
+            "mainClass": "Prize",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumber",
+            "request": "launch",
+            "mainClass": "RandomNumber",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "ResultProcessingSystem",
+            "request": "launch",
+            "mainClass": "ResultProcessingSystem",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "SerializationRead",
+            "request": "launch",
+            "mainClass": "SerializationRead",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "SerializationWrite",
+            "request": "launch",
+            "mainClass": "SerializationWrite",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java_174cfd6e"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java_174cfd6e"
+        }
+    ]
+}
